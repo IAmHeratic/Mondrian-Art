@@ -1,0 +1,8 @@
+C:\Users\josee\Documents\CS_341\MondrianArt\MondrianArt\bin\Debug\netcoreapp2.0\MondrianArt.deps.json
+C:\Users\josee\Documents\CS_341\MondrianArt\MondrianArt\bin\Debug\netcoreapp2.0\MondrianArt.runtimeconfig.json
+C:\Users\josee\Documents\CS_341\MondrianArt\MondrianArt\bin\Debug\netcoreapp2.0\MondrianArt.runtimeconfig.dev.json
+C:\Users\josee\Documents\CS_341\MondrianArt\MondrianArt\bin\Debug\netcoreapp2.0\MondrianArt.dll
+C:\Users\josee\Documents\CS_341\MondrianArt\MondrianArt\bin\Debug\netcoreapp2.0\MondrianArt.pdb
+C:\Users\josee\Documents\CS_341\MondrianArt\MondrianArt\obj\Debug\netcoreapp2.0\MondrianArt.fsprojResolveAssemblyReference.cache
+C:\Users\josee\Documents\CS_341\MondrianArt\MondrianArt\obj\Debug\netcoreapp2.0\MondrianArt.dll
+C:\Users\josee\Documents\CS_341\MondrianArt\MondrianArt\obj\Debug\netcoreapp2.0\MondrianArt.pdb
